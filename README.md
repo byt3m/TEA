@@ -1,4 +1,4 @@
-# TEA V1
+# TEA v1.0
 Another RAT that employs the telegram bot api, written in python 3.7.4 and tested on Windows 7 Enterprise.
 
 Steps:
