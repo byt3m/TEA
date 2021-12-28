@@ -8,3 +8,5 @@ Steps:
 4. Enjoy.
 
 PD: You can compile it by using the "BUILD.bat".
+
+This repository is licensed under the GNU General Public License v3.0.
